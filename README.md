@@ -5,7 +5,7 @@ this illustrated welcome bot creates a special png when a person enters and assi
 ## Language and Libraries Used
 
 <picture>
-  <source srcset="https://skillicons.dev/icons?i=js,nodejs" media="(prefers-color-scheme: dark)">
+  <source srcset="https://skillicons.dev/icons?i=py" media="(prefers-color-scheme: dark)">
   <img src="https://skillicons.dev/icons?i=py">
 </picture>
 
